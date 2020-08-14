@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-<!--
-**KeziixTV/KeziixTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
 - 🔭 Je travaille actuellement sur OttakoSky
 - 🤡 Je suis un fou
 - 🤔 Je cherche de l’aide pour OttakoSky
--->
 
 ### Me contacter
 
