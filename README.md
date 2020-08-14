@@ -9,6 +9,8 @@
 [<img align="left" alt="Suprazy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="Suprazy | Instagram" width="22px" src="https://cdn.discordapp.com/emojis/693493074277695647.png" />][Discord]
 
+<br />
+
 ### Langages & autres
 
 
