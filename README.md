@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Je travaille actuellement sur OttakoSky
-- 🤡 Je suis un fou
+- 🤡 Je préfère le JavaScript & Java :)
 - 🤔 Je cherche de l’aide pour OttakoSky
 
 ### Me contacter
