@@ -24,12 +24,6 @@
 <br />
 
 
----
-
-<img align="left" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexeption&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Hexeptions's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hexeption&show_icons=true&hide_border=true&theme=radical" />
-
-
 [ottakoskysite]: https://www.OttakoSky.fr/
 [OttakoGithub]: https://github.com/OttakoSky
 [twitter]: https://twitter.com/KeziixTV
