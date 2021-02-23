@@ -1,8 +1,8 @@
 ### Hi there, I'm Keziix 👋
 
 ## I'm owner of OttakoSky !
-- 🌋 I’m currently working on a [OttakoSky][discord]!
-- 🥅 2021 Goals: Create a public Minecraft server !
+- 🌋 I’m currently working on a [OttakoSky][OttakoGithub]!
+- 🥅 2021 Goals: Create a public [Minecraft server !][discord]
 
 ### Connect with me:
 
