@@ -22,7 +22,7 @@
 
 ![Keziix Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KeziixTV&layout=compact&theme=outrun)
 
-![OttakoSky Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OttakoSky&layout=compact&theme=outrun)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KeziixTV&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 <br />
