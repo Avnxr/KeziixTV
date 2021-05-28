@@ -20,12 +20,21 @@
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>][visucode]
 [<img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>][visucode]
 
-![Keziix Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KeziixTV&layout=compact&theme=outrun)
+### Statistics on me :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KeziixTV&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KeziixTV&layout=compact&theme=outrun)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KeziixTV&title=Visitors)
 ![Followers Badge](https://img.shields.io/github/followers/KeziixTV?label=Followers)
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeziixTV&card_width=400&langs_count=10&hide_border=true&theme=nord" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KeziixTV&show_icons=trye&line_height=27&theme=nord&hide_border=true" />
+</a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KeziixTV&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br />
 <br />
