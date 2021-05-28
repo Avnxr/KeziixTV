@@ -24,6 +24,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeziixTV&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KeziixTV&title=Visitors)
+![Followers Badge](https://img.shields.io/github/followers/KeziixTV?label=Followers)
+
 <br />
 <br />
 
