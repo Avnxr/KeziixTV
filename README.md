@@ -22,6 +22,8 @@
 
 ![Keziix Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KeziixTV&layout=compact&theme=outrun)
 
+![OttakoSky Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OttakoSky&layout=compact&theme=outrun)
+
 <br />
 <br />
 
