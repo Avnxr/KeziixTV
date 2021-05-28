@@ -1,13 +1,14 @@
 ### Hi there, I'm Keziix 👋
 
 ## I'm owner of OttakoSky !
-- 🌋 I’m currently working on a [OttakoSky][OttakoGithub]!
+- 🌋 I’m currently working on a [OttakoSky][ottakoskysite]!
 - 🥅 2021 Goals: Create a public [Minecraft server !][discord]
 
 ### Connect with me:
 
 [<img align="left" alt="hexeption | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hexeption | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+contact@ottakosky.fr
 
 <br />
 
@@ -40,10 +41,10 @@
 <br />
 
 
-[ottakoskysite]: https://www.OttakoSky.fr/
+[ottakoskysite]: https://ottakosky.fr/
 [OttakoGithub]: https://github.com/OttakoSky
 [twitter]: https://twitter.com/KeziixTV
-[discord]: https://discord.gg/sWwJXks
+[discord]: http://discord.ottakosky.fr/
 [intellij]: https://www.jetbrains.com/idea/
 [git]: https://www.jetbrains.com/idea/
 [gitkracken]: hthttps://www.gitkraken.com/
